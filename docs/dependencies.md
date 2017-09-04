@@ -13,9 +13,7 @@
  | [chalk@^2.1.0](https://github.com/chalk/chalk) | Terminal string styling done right | 2.1.0 | production | 
  | [execa@^0.8.0](https://github.com/sindresorhus/execa) | A better `child_process` | 0.8.0 | production | 
  | [glob-promise@^3.1.0](https://github.com/ahmadnassri/glob-promise) | Promise version of glob | 3.1.0 | production | 
- | [is-directory@^0.3.1](https://github.com/jonschlinkert/is-directory) | Returns true if a filepath exists on the file system and it's directory. | 0.3.1 | production | 
  | [jscodeshift@^0.3.32](https://github.com/facebook/jscodeshift) | A toolkit for JavaScript codemods | 0.3.32 | production | 
- | [mkdirp-promise@^5.0.1](https://github.com/ahmadnassri/mkdirp-promise) | Promise version of mkdirp | 5.0.1 | production | 
  | [ora@^1.3.0](https://github.com/sindresorhus/ora) | Elegant terminal spinner | 1.3.0 | production | 
  | [refactoring-codemods@^0.3.2](https://github.com/jurassix/refactoring-codemods#readme) | Quest for IDE refactoring support within JavaScript via js-codemods | 0.3.2 | production | 
  | [resolve-bin@^0.4.0](https://github.com/thlorenz/resolve-bin) | Resolves the full path to the bin file of a given package by inspecting the "bin" field in its package.json. | 0.4.0 | production | 
